@@ -1,1 +1,1 @@
-web: scrapy crawl dataConsumptionApp
+web: scrapy crawl dataConsumptionSpider
